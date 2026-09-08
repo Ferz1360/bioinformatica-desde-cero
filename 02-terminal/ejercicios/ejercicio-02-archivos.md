@@ -164,9 +164,5 @@ Mover o renombrar archivos.
 Eliminar archivos.
 Organizar archivos en diferentes directorios.
 
-**Ese bloque completo es lo que vas a pegar en `nano`.** Después de pegarlo:
 
-**Control + O → Enter → Control + X**
-
-Y seguimos con la comprobación antes de subirlo.
 
